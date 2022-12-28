@@ -6,8 +6,10 @@ Web Developer
 
 *   🌍  I'm based in Bengaluru
 *   🖥️  See my portfolio at [here](http://kishanlalbj.netlify.app)
-*   ✉️  You can contact me at [kishanlalbj@gmail.com](mailto:kishanlalbj@gmail.com)
-*   🧠  I'm learning ML and cloud### Skills 
+*   ✉️  You can contact me at [kishanlalbj2@gmail.com](mailto:kishanlalbj2@gmail.com)
+*   🧠  I'm learning ML and cloud
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
