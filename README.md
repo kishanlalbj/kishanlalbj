@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 *   🌍  I'm based in Bengaluru
-*   🖥️  See my portfolio at [here](http://kishanlalbj.netlify.app)
+*   🖥️  See my portfolio at [here](http://kishanlalbj.dev)
 *   ✉️  You can contact me at [kishanlalbj2@gmail.com](mailto:kishanlalbj2@gmail.com)
 *   🧠  I'm learning ML and cloud
 
